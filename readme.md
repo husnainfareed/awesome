@@ -619,6 +619,7 @@
 
 ## Security
 
+- [Ethical Hacking & Pentesting](https://github.com/husnainfareed/awesome-ethical-hacking-resources#readme)
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
